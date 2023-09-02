@@ -7,10 +7,10 @@ Sage X3 Sales Process Analytics and Dashboards
 <ul>
   <li><ul>Description of the project <li>This project consists of setting up a decision-making solution for complete data analysis on the sales process of the ERP Sage X3 by covering the entire end-to-end data manipulation chain: collection, cleaning, storage, and visualisation.</li>
   <li> 
-Improve the existing solution developed within the hosting company by extending the analysis of sales processes and expanding the areas of the current dashboards.</li></ul>
+Improve the existing solution developed within the hosting company by extending the analysis of sales processes and expanding the areas of the current dashboards.</li>
   </li>
   <li>
-The data may be distributed across various schemas or modules within the Sage X3 system, making it necessary to navigate and integrate data from multiple sources. To address these complexities, we use SQL queries, Python analysis, visualisation, and documentation of Sage X3.</li>
+The data may be distributed across various schemas or modules within the Sage X3 system, making it necessary to navigate and integrate data from multiple sources. To address these complexities, we use SQL queries, Python analysis, visualisation, and documentation of Sage X3.</li></ul>
 <li><ul>Problematic <li>
 The project presents challenges in dealing with a large number of tables and diverse database schemas to understand the sales process. This requires a thorough understanding of the sales process and database structure, table relationships, and data dependencies. 
 </li></ul>
