@@ -23,13 +23,9 @@ The project presents challenges in dealing with a large number of tables and div
 
 <li>Software environment</li>
 •	Microsoft SQL Server Management Studio 2018
-
 •	Visual studio 2019
-
 •	SQL Server Integration Services (SSIS)
-
 •	SQL Server Analysis Services (SSAS)
-
 •	Power BI
 
 
