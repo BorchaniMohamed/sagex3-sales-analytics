@@ -27,6 +27,7 @@ The project presents challenges in dealing with a large number of tables and div
 <ul>	SQL Server Integration Services (SSIS) </ul>
 <ul>	SQL Server Analysis Services (SSAS) </ul>
 <ul>	Power BI </ul>
+<ul> Microsoft Excel</ul>
 </li>
 
 
